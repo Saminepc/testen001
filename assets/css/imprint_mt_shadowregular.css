@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'imprint_mt_shadowregular';
+	src: url(../../assets/fonts/imprisha-webfont.woff2) format('woff2'),
+	url(../../assets/fonts/imprisha-webfont.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+}

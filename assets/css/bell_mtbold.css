@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'bell_mtbold';
+	src: url(../../assets/fonts/bellb-webfont.woff2) format('woff2'),
+	url(../../assets/fonts/bellb-webfont.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+}

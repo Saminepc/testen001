@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'vaniregular';
+	src: url(../../assets/fonts/vani-webfont.woff2) format('woff2'),
+	url(../../assets/fonts/vani-webfont.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
